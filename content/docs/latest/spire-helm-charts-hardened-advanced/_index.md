@@ -4,6 +4,7 @@ short: Advanced
 kind: spire-helm-charts-hardened-advanced
 aliases:
     - /spire-helm-charts-hardened-advanced
+
 ---
 
 The SPIRE Helm chart provided by the helm-charts-hardened project can be configured into many different architectures and configurations.
